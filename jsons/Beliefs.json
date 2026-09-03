@@ -1,79 +1,79 @@
 [
      {
-          "name": "Milcom the Bull ",
+          "name": "Milcom the Bull",
           "type": "Pantheon",
           "uniques": ["[+1 Food, +1 Gold] from every [Cattle]", "[+1 Food, +1 Gold] from every [Bison]"]
      },
      {
           "name": "Temple of Dagon",
-          "type": “Pantheon”,
+          "type": "Pantheon",
           "uniques": ["[+1 Food, +1 Production] from every [Wheat]", "[+1 Food, +1 Production] from every [Cotton]", "[+1 Food, +1 Production] from every [Sugar]"]
      },
      {
           "name": "Statue of Njörðr",
-          "type": “Pantheon”,
+          "type": "Pantheon",
           "uniques": ["[+10]% Production when constructing [Water] units [in all cities]"]
      },
      {
           "name": "Monument of Nisroch",
-          "type": “Pantheon”,
+          "type": "Pantheon",
           "uniques": ["[+1 Production, +1 Gold] from every [Forest]"]
      },
      {
           "name": "Festival of Tammmuz",
-          "type": “Pantheon”,
+          "type": "Pantheon",
           "uniques": ["[+1 Food, +1 Gold, +1 Culture] from every [Sheep]"]
      },
      {
           "name": "First Fruits",
-          "type": “Follower”,
+          "type": "Follower",
           "uniques": ["[+1 Food, +1 Gold] from every [Granary]",
                     "[+1 Food, +1 Culture] from every [Garden]"]
      },
      {
           "name": "Commerce Worship",
-          "type": “Follower”,
+          "type": "Follower",
           "uniques": ["[+1 Gold] from all [Gold] buildings"]
      },
      {
           "name": "Sacred Knowledge",
-          "type": “Follower”,
+          "type": "Follower",
           "uniques": ["[+2 Science, +1 Culture] from every [Library]", "[+2 Science, +1 Culture] from every [University]", "[+2 Science, +1 Culture] from every [Museum]"]
      },
      {
           "name": "Laborers of God",
-          "type": “Follower”,
+          "type": "Follower",
           "uniques": ["[+20]% Production when constructing [Water Works] buildings [in all cities]",
                     "[+20]% Production when constructing [Aquaduct] buildings [in all cities]",
                     "[+20]% Production when constructing [Forge] buildings [in all cities]"]
      },
      {
           "name": "Defense of the Sacred",
-          "type": “Follower”, 
+          "type": "Follower", 
           "uniques": ["[+20]% Production when constructing [Walls] buildings [in all cities]",
                     "[+20]% Production when constructing [Lighthouse] buildings [in all cities]",
                     "[+20]% Production when constructing [Castle] buildings [in all cities]"]
       },
      {
           "name": "Protector of the Faith",
-          "type": “Follower”,
+          "type": "Follower",
           "uniques": ["[+20]% Production when constructing [Barracks] buildings [in all cities]",
                     "[+20]% Production when constructing [Armory] buildings [in all cities]",
                     "[+20]% Production when constructing [Arsenal] buildings [in all cities]"]
      },
      {
           "name": "Galileo’s Vindication",
-          "type": “Founder”,
+          "type": "Founder",
           "uniques": ["[+1 Faith, +2 Science] from every [3] global followers [in all cities]"]
      },
      {
-          "name": “Stewardship”,
-          "type": “Founder”,
+          "name": "Stewardship",
+          "type": "Founder",
           "uniques": ["[+3 Production] for each global city following this religion"]
      },
      {
-          "name": “House of Worship”,
-          "type": “Founder”,
+          "name": "House of Worship",
+          "type": "Founder",
           "uniques": ["[+20]% [Culture] from every follower, up to [+20]%"]
      }
 ]
