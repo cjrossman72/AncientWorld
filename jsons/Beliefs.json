@@ -43,28 +43,25 @@
      {
           "name": "Laborers of God",
           "type": “Follower”,
-          "uniques": [
-                    “[+20]% [Production] when constructing [Water Works] buildings [in all cities]”,
-                    “[+20]% [Production] when constructing [Aquaduct] buildings [in all cities]”,
-                    “[+20]% [Production] when constructing [Water Works] buildings [in all cities]”
+          "uniques": [“[+20]% Production when constructing [Water Works] buildings [in all cities]”, “[+20]% Production when constructing [Aquaduct] buildings [in all cities]”,“[+20]% Production when constructing [Water Works] buildings [in all cities]”
                     ]
      },
      {
           "name": "Defense of the Sacred",
-          "type": “Follower”,
+          "type": “Follower”, 
           "uniques": [
-                    “[+20]% [Production] when constructing [Walls] buildings [in all cities]”,
-                    “[+20]% [Production] when constructing [Lighthouse] buildings [in all cities]”,
-                    “[+20]% [Production] when constructing [Castle] buildings [in all cities]”
+                    “[+20]% Production when constructing [Walls] buildings [in all cities]”,
+                    “[+20]% Production when constructing [Lighthouse] buildings [in all cities]”,
+                    “[+20]% Production when constructing [Castle] buildings [in all cities]”
                     ] 
      },
      {
           "name": "Protector of the Faith",
           "type": “Follower”,
           "uniques": [
-                    “[+20]% [Production] when constructing [Barracks] buildings [in all cities]”,
-                    “[+20]% [Production] when constructing [Armory] buildings [in all cities]”,
-                    “[+20]% [Production] when constructing [Arsenal] buildings [in all cities]”
+                    “[+20]% Production when constructing [Barracks] buildings [in all cities]”,
+                    “[+20]% Production when constructing [Armory] buildings [in all cities]”,
+                    “[+20]% Production when constructing [Arsenal] buildings [in all cities]”
                     ]
      },
      {
