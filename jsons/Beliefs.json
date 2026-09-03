@@ -42,17 +42,17 @@
      {
           "name": "Laborers of God",
           "type": “Follower”,
-          "uniques": [“[+20]% Production when constructing [Water Works, Aquaduct, Forge] buildings [in all cities]”]
+          "uniques": [“[+20]% [Production] when constructing [Water Works, Aquaduct, Forge] buildings [in all cities]”]
      },
      {
           "name": "Defense of the Sacred",
           "type": “Follower”,
-          "uniques": [“[+20]% Production when constructing [Walls, Lighthouse, Castle] buildings [in all cities]”]
+          "uniques": [“[+20]% [Production] when constructing [Walls, Lighthouse, Castle] buildings [in all cities]”]
      },
      {
           "name": "Protector of the Faith",
           "type": “Follower”,
-          "uniques": [“[+20]% Production when constructing [Barracks, Armory, Arsenal] buildings [in all cities]”]
+          "uniques": [“[+20]% [Production] when constructing [Barracks, Armory, Arsenal] buildings [in all cities]”]
      },
      {
           "name": "Galileo’s Vindication",
